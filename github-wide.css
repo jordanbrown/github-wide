@@ -22,7 +22,7 @@ body > .container, /* Footer */
   margin-right: -60px !important;
 }
 
-/*.summary-stats,
+.summary-stats,
 .authors-and-code {
   display: table;
   width: 100%;
@@ -34,7 +34,7 @@ body > .container, /* Footer */
 
 .authors-and-code .section {
   width: 50%;
-}*/
+}
 
 /* Repo Next Code page */
 
